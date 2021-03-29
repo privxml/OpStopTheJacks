@@ -1,2 +1,3 @@
-# themastergang
-Vivos sou falado, morto serei relembrado.
+# usr/bin/perl 
+print('#OPStopTheJacks')
+Rodando jacks na interweb desde 2016
