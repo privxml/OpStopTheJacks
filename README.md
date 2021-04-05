@@ -1,3 +1,3 @@
 
 # OPStopTheJacks')
-Rodando jacks na interweb desde 2016
+usr/bin/???????
